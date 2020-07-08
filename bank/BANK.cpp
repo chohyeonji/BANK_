@@ -129,7 +129,7 @@ public:
 			}
 		}
 		else {
-			for (int i = 0; i < index; i++)
+			for (int i = 0; i < saveindex; i++)
 			{
 				if (savebankarr[i]->getaccID() == accID)
 				{
